@@ -1,0 +1,38 @@
+img {
+      width:70%;
+}
+h1 {
+    color:white;
+}
+body{
+    background: linear-gradient(to top, #ffffff 0%, #ff6699 100%);
+}
+p {
+    font-size:21px;
+   
+}
+
+.movie-header {
+ color:rgb(102, 255, 255);
+}
+
+.model-header {
+    color:pink;
+    
+}
+.photo {
+    width:50%;
+  
+}
+.cardib {
+    font-size :30px;
+    color :rgb(25, 251, 25);
+    
+}
+.baby {
+    width:50%;
+}
+.queen {
+    font-size:30px;
+    color:rgb(255, 255, 0);
+}
